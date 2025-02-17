@@ -53,8 +53,6 @@ project-root/
 ├── src/
 │   ├── convertor_final_cleaned.py        # Data preprocessing
 │   └── prediction.py                     # ML model implementation
-├── models/
-│   └── trained_models/                   # Saved ML models
 ├── documentation/
 │   └── circuit_diagrams/                 # Circuit configuration images
 └── README.md                             # This file
