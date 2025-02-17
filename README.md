@@ -16,6 +16,7 @@ The project includes four fundamental single-stage amplifier configurations:
   - Simple biasing scheme
   - Moderate output impedance
   - Basic gain-bandwidth trade-off
+![WhatsApp Image 2025-02-12 at 15 00 17_9fc79c80](https://github.com/user-attachments/assets/7e77d96f-2033-4eaa-af21-185c6e450519)
 
 ### 2. Common Source with Diode Load
 - Dual NMOS configuration (g45n1lvt)
@@ -25,6 +26,7 @@ The project includes four fundamental single-stage amplifier configurations:
   - Better linearity
   - Suitable for differential pairs
   - Self-biasing capability
+![WhatsApp Image 2025-02-13 at 15 42 50_1458fe6c](https://github.com/user-attachments/assets/2a9a330a-6df8-4074-bb40-98a3b2732af5)
 
 ### 3. Common Source with Current Load
 - PMOS current source load (g45p1lvt)
@@ -34,6 +36,7 @@ The project includes four fundamental single-stage amplifier configurations:
   - Enhanced power supply rejection
   - Better output impedance
   - Improved common-mode rejection
+![WhatsApp Image 2025-02-13 at 17 40 23_ba6757fe](https://github.com/user-attachments/assets/50190bf8-d831-455b-bc9d-562a51d67898)
 
 ### 4. Common Drain (Source Follower)
 - NMOS in source follower configuration
@@ -43,6 +46,7 @@ The project includes four fundamental single-stage amplifier configurations:
   - No phase inversion
   - Low output impedance
   - Excellent input-output isolation
+![WhatsApp Image 2025-02-15 at 15 06 36_b9f8baa7](https://github.com/user-attachments/assets/28b2aff6-a6a9-4931-bd8e-461b37b1282f)
 
 ## Project Structure
 
